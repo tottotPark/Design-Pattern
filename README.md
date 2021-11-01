@@ -5,9 +5,9 @@ Design-Pattern
 
 11월 1주차 : Chapter3.생성 패턴
 
-Abstract Factory
-Builder
-Factory Method
-Prototype ***
-Singleton
+Abstract Factory /n
+Builder /n
+Factory Method /n
+Prototype *** /n
+Singleton /n
 생성 패턴에 대한 논의
